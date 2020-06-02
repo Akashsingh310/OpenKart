@@ -51,12 +51,7 @@ Product Details
 
 
 
-Order Placed Info
 
-![order](https://github.com/Akashsingh310/OpenKart/blob/master/Img%20Preview/screencapture-localhost-3000-orders-1591082394098.png)
-
-Create Products.
-![create product](https://github.com/Akashsingh310/OpenKart/blob/master/Img%20Preview/screencapture-localhost-3000-products-1591082415030.png)
 
 Cart Details.
 
@@ -78,3 +73,10 @@ Place Order
 Order Payment
 
 ![payment](https://github.com/Akashsingh310/OpenKart/blob/master/Img%20Preview/screencapture-localhost-3000-order-5ed6238c80b3005760154bbe-1591092112954.png)
+
+Order Placed Info
+
+![order](https://github.com/Akashsingh310/OpenKart/blob/master/Img%20Preview/screencapture-localhost-3000-orders-1591082394098.png)
+
+Create Products.
+![create product](https://github.com/Akashsingh310/OpenKart/blob/master/Img%20Preview/screencapture-localhost-3000-products-1591082415030.png)
