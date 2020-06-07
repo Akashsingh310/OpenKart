@@ -1,7 +1,7 @@
 # OpenKart
 E-commerce website Example
 
-Demo Website https://myopenkart.herokuapp.com/
+Demo Website Link https://myopenkart.herokuapp.com/
 
 You have to Run Both Frontend as well as backend so only you could see website.
 <h3>Run Locally</h3>
